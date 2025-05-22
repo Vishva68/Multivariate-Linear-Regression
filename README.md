@@ -25,8 +25,8 @@ To write a python program to implement multivariate linear regression and predic
 
 ## Program:
 ```
-# Developed by: RAJA GOPAL V
-# Reference N0: 212223240134
+# Developed by: Vishvanandh N
+# Reference N0: 212224240186
 
 import pandas as pd
 from sklearn import linear_model
